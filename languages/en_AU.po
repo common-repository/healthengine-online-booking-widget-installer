@@ -1,0 +1,37 @@
+# Copyright (C) 2019 HealthEngine
+# This file is distributed under the same license as the HealthEngine - Online Booking Widget Installer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HealthEngine - Online Booking Widget Installer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-22T09:12:34+01:00\n"
+"PO-Revision-Date: 2019-01-22 16:14+0800\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Domain: trunk\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_AU\n"
+
+#. Plugin Name of the plugin
+msgid "HealthEngine - Online Booking Widget Installer"
+msgstr "HealthEngine - Online Booking Widget Installer"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/healthengine-online-booking-widget-installer/"
+msgstr "https://wordpress.org/plugins/healthengine-online-booking-widget-installer/"
+
+#. Description of the plugin
+msgid "HealthEngine plugin for online booking system"
+msgstr "HealthEngine plugin for online booking system"
+
+#. Author of the plugin
+msgid "HealthEngine"
+msgstr "HealthEngine"
+
+#. Author URI of the plugin
+msgid "https://healthengine.com.au/"
+msgstr "https://healthengine.com.au/"
